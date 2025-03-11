@@ -14,7 +14,7 @@ I’m currently focused on honing my skills and have no ongoing projects at the 
 
 ### Skills:
 - **Programming Languages**: Python
-- **Photo & Video Editing Tools**: Adobe Photoshop
+- **Photo & Video Editing Tools**: Adobe Photoshop & Adobe Premiere pro
 
 ### How to Reach Me:
 - Email: dmosesfernando@gmail.com
