@@ -1,5 +1,7 @@
 # Hi, I'm Moses! 👋
 
+![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/user-attachments/assets/b1b04d63-b6c2-4707-b2bd-8631666a6d91)
+
 ### About Me
 I'm currently pursuing my B.Tech degree in Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning (AIML) at [Karunya Institute of Technology](https://www.karunya.edu/). My academic journey has been both exciting and challenging, with a focus on leveraging AI and machine learning technologies to solve real-world problems.
 
