@@ -19,7 +19,17 @@
 - 🛠️ Building Projects that Make a Difference in My Personal Life  
 
 ---
+# 📊 GitHub Stats:
 
+![](https://nirzak-streak-stats.vercel.app/?user=mosesfdo&theme=tokyonight&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesfdo&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mosesfdo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🔧 Skills
 - **Programming Languages**: Python,C,Java(currently Learning)
 - **Editing Tools**: Adobe Photoshop, Adobe Premiere Pro  
