@@ -1,6 +1,4 @@
-<div align="center">
   <h1>Hi, I'm Moses! 👋</h1>
-</div>
 
 ## 🚀 About Me
 
