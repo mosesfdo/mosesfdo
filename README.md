@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Black Minimal Business Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/b1b04d63-b6c2-4707-b2bd-8631666a6d91)
-
 <div align="center">
   <h1>Hi, I'm Moses! 👋</h1>
 </div>
@@ -33,13 +30,6 @@
 - **Languages**: Python, C, Java *(currently learning)*
 - **Tools & Platforms**: Git, VS Code, MySQL, Replit  
 - **Creative Tools**: Adobe Photoshop, Adobe Premiere Pro  
-
----
-
-## 💼 Current Focus
-
-📚 I’m focused on **mastering fundamentals** in computer science and AI before diving into complex projects.  
-🔧 Exploring projects that integrate **AI + Real-World Applications**.  
 
 ---
 
